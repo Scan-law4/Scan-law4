@@ -41,4 +41,4 @@ If your organization provides compute grants for open-source AI safety research,
 - Email: scan@law-4.com
 - Website: [law-4.com](https://law-4.com)
 - GitHub: [@Scan-law4](https://github.com/Scan-law4)
-- YouTube: [AI Mentalist](https://youtube.com/@AIMentalist) — applied AI safety and agent architecture
+- YouTube: [AI Mentalist EN](https://www.youtube.com/@AI.Mentalist_EN) · [AI Mentalist HR](https://www.youtube.com/@AI.Mentalist_HR) — applied AI safety and agent architecture
