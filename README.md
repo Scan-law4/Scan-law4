@@ -3,6 +3,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github)](https://github.com/sponsors/Scan-law4)
 
 [![DOI: Law-4 Framework](https://zenodo.org/badge/DOI/10.5281/zenodo.17585621.svg)](https://doi.org/10.5281/zenodo.17585621)
+
 [![DOI: 4-Beat Reflex](https://zenodo.org/badge/DOI/10.5281/zenodo.21364344.svg)](https://doi.org/10.5281/zenodo.21364344)
 
 Independent researcher working at the intersection of AI ethics, agent architecture, and autonomous intelligence.
